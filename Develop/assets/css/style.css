@@ -11,7 +11,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-/*added a element selectors on line 79 to follow htlm semantic structure*/
+/*added a element selectors on line 15 to follow htlm semantic structure*/
 h1  {
     display: inline-block;
     font-size: 48px;
@@ -42,7 +42,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/*renamed class selector to something more specific in line 45*/
+/*renamed class selector to something more specific in line 46*/
 .background-image {
     height: 800px;
     width: 100%;
@@ -51,7 +51,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-/*added a element selector "main" on line 54 to follow htlm semantic structure*/
+/*added a element selector "main" on line 55 to follow htlm semantic structure*/
 main {
     width: 75%;
     display: inline-block;
@@ -66,7 +66,7 @@ h2 {
 p {
     font-size: 16px;
 }
-/*Lines 69-77 effect image placment in the main\sections element*/
+/*Lines 70-78 effect image placment in the main\sections element*/
 .float-left {
     float: left;
     margin-right: 25px;
