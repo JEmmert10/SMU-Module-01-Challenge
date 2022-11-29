@@ -2,7 +2,7 @@
 
 ## Description
 
-This weekly challenge is a **On-the-job ticket** or **feature request Challenges** they give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format. I am challenge to make the code better and improve the overall state of the live site and the code. 
+This weekly challenge is a **On-the-job ticket** or **feature request Challenges** they give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format. I am challenged to make the code better, improve the overall state of the live site and help get the mock-up site back up to accessibility standards. 
  
 
 ### Challenge Elements
