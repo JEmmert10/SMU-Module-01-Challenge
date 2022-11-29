@@ -2,12 +2,12 @@
 
 ## Description
 
-This weekly challenge is a **On-the-job ticket** or **feature request Challenges** they give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format. 
+This weekly challenge is a **On-the-job ticket** or **feature request Challenges** they give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format. I am challenge to make the code better and improve the overall state of the live site and the code. 
  
 
 ### Challenge Elements
 
-challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer.
+challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work.
 
 Each Challenge contains the following elements:
 
@@ -15,10 +15,10 @@ Each Challenge contains the following elements:
 * **Acceptance Criteria**: These are the requirements that you must meet to satisfy the scope of work.
 * **Mock-up**: This is an image or animation that demonstrates the design and functionality of the web application that you'll build for the Challenge.
 
-* **Submission**: You'll submit your completed Challenge for review. 
+* **Submission**: You'll submit your completed Challenge for review.
 
 ## MY Task
-This week is an odd-numbered week, so my Challenge is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify.
+This week my Challenge is an on-the-job ticket&mdash;meaning that I will begin with starter code that I need to modify. I started by fixing the html structure first, then moved over to the .css to make it match the html structure. Next, created my readme.md for the repository. Finally I submitted my live site and GitHub repository URL's to be graded. Both links to my live site URL, my GitHub repository URL and the starter code GitHub repository URL are linked in the credits.
 
 ## User Story
 
@@ -42,10 +42,12 @@ THEN I find a concise, descriptive title
 
 ## Credits
 
-https://github.com/coding-boot-camp/urban-octo-telegram for starter code.
-SMU BootCamp for challenge elements and criteria on grading.
+My live site URL with my version of completing the challenge and my GitHub repository URL 
 
+https://jemmert10.github.io/SMU-Module-01-Challenge/
 
+https://github.com/JEmmert10/SMU-Module-01-Challenge
 
+Starter Code GitHub Repository URL
 
-
+https://github.com/coding-boot-camp/urban-octo-telegram
